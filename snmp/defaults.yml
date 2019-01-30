@@ -1,0 +1,7 @@
+# vim: ft=yaml
+# Defaults for snmp
+
+snmp:
+  enabled: true
+  pkg: net-snmp
+
